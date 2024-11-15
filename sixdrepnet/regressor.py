@@ -7,7 +7,7 @@ import cv2
 from PIL import Image
 import numpy as np
 
-from model import SixDRepNet
+from .model import SixDRepNet
 import utils
 
 
